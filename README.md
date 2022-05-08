@@ -16,13 +16,13 @@ LOL API로부터 LOL 솔로랭크 대전기록 데이터를 가져와 해당 패
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/70125217/166094148-e3640926-354c-4d14-8126-a69137e4d6a3.png">
 
 ## <LOL-API & KAFKA>
-lol-api.py
-producer.py
-consumer.py
+- lol-api.py
+- producer.py
+- consumer.py
 ## <SPARK & ELASTICSEARCH>
-gameboard-indicators-analysis.ipynb
-gameboard-indicators.py
-gameboard-rate.py
+- gameboard-indicators-analysis.ipynb
+- gameboard-indicators.py
+- gameboard-rate.py
 
 
 # Demo
