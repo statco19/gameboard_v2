@@ -1,7 +1,7 @@
 import requests
 import json
 
-token = 'RGAPI-d4805905-a2b4-4662-a8e9-cc2754f26c92'
+token = '***'
 
 #특정 유저의 닉네임으로 puuid 조회
 def get_puuid_by_id(user_id):
@@ -180,4 +180,3 @@ for tier in tier_list:
                     time.sleep(2)
                     print(apis)
                     print(now_game)
-                    '''
